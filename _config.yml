@@ -1,0 +1,28 @@
+name: jaseodonnell
+favicon: null
+layout_spectrum: 0.6900110656861216
+typography_spectrum: 0.5639107152819633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.40669015026651323
+  lightness: 0.3705519111827016
+  saturation: 0.07182590384036303
+  rhythmicContrast: 0.5272015689406544
+purpose: []
